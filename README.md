@@ -1,7 +1,10 @@
 # MAGD-150
 
-Visit GitHub!
+course files for MAGD 150
 
-Visit GitHub YamiDawn33 Respository
+[Visit GitHub!](www.github.com)
 
-visit the UW-Whitewater homepage
+[Visit GitHub **YamiDawn33** Respository](https://github.com/YamiDawn33/MAGD-150)
+
+
+[visit the **UW-Whitewater** homepage](http://www.uww.edu)
